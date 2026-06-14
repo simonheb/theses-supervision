@@ -28,6 +28,16 @@ Meet your advisors (i.e., maybe me). Especially if you feel there's no progress 
 
 Advising is our job. That being said: you can make our job easy by preparing the meetings well, by sending *concise* bullet points prior to meetings, and by collecting questions instead of making each question one email.
 
+### My current interests
+
+I am currently particularly (but not exclusively) interested in advising theses on:
+- public transport infrastructure and economic outcomes (e.g., recently accepted BSc and MSc theses on metro lines in Mexico City and Cairo)
+- microeconomic models of discrimination (caste, race, gender, sexuality)
+- Gambia
+- Nepal
+
+Reach out if any of these match your interests.
+
 ### AI
 
 Of course you will use AI tools (Grammarly, Claude, etc.) for both text writing and coding. It's a useful skill that you should practice! Conversely, this means that errors that could have been avoided by using AI tools (e.g., very basic grammar or coding mistakes) as well as errors that indicate AI-generated content was adopted uncritically (e.g., hallucinated results) will be taken particularly seriously and *at least* lead to point deductions.
