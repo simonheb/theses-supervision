@@ -18,7 +18,7 @@ Start with submitting an exposé (2–3 pages) which outlines your:
 2. Related literature
 3. Empirical framework (potential data and methods)
 
-A working title must be included. In case I can supervise your project, we will then schedule a meeting to discuss the way forward for the thesis.
+A working title must be included. If I can supervise your project, we will then schedule a meeting to discuss the way forward for the thesis.
 
 You then work independently. I am available via email or for meetings in case there are any difficulties, but I expect you to study the relevant literature and do your empirical implementations on your own (this is when you learn the most and gain experience). I am happy to discuss results and code with you, during our meetings, but I will not review or edit code via email.
 
@@ -40,7 +40,7 @@ Reach out if any of these match your interests.
 
 ### AI
 
-Of course you will use AI tools (Grammarly, Claude, etc.) for both text writing and coding. It's a useful skill that you should practice! Conversely, this means that errors that could have been avoided by using AI tools (e.g., very basic grammar or coding mistakes) as well as errors that indicate AI-generated content was adopted uncritically (e.g., hallucinated results) will be taken particularly seriously and *at least* lead to point deductions.
+Of course, you will use AI tools (Grammarly, Claude, etc.) for both text editing and coding. It's a useful skill that you should practice! Conversely, this means that errors that could have been avoided by using AI tools (e.g., very basic grammar or coding mistakes) as well as errors that indicate AI-generated content was adopted uncritically (e.g., hallucinated results) will be taken particularly seriously and *at least* lead to point deductions. AI also tends to produce imprecise, superficial analysis. In my view, AI should be used mostly for brainstorming and feedback. I may check parts of your writing with Pangram, or another AI detector, to get a feeling for how you worked.
 
  
 
